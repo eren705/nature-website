@@ -21,6 +21,10 @@ nav ul {
 nav ul li {
     display: inline;
     margin: 0 15px;
+} p {
+    background-color: #f4f4f4; /* Change to your desired color */
+    padding: 10px;  /* Adds space inside the paragraph */
+    border-radius: 5px; /* Rounds the corners slightly */
 }
 
 nav ul li a {
@@ -37,6 +41,8 @@ section {
     background: url('https://source.unsplash.com/1600x900/?nature,forest') no-repeat center/cover;
     color: white;
     padding: 100px 20px;
+} p {
+    background: linear-gradient(to right, #ff9a9e, #fad0c4);
 }
 
 form {
